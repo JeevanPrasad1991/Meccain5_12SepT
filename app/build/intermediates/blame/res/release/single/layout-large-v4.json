@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\secwindow.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\secwindow.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\storelistrow.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\storelistrow.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\df_list_item.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\df_list_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\deepfreezer_tab_layout.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\deepfreezer_tab_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\check.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\check.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\store_entry_layout.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\store_entry_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\storelistlayout.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\storelistlayout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\gateitem.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\gateitem.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\jointcall.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\jointcall.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\gatemeeting.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\gatemeeting.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\merchandiserlist.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\merchandiserlist.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\merchandiser_list.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\merchandiser_list.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\mainpage.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\mainpage.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\dailyentry.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\dailyentry.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\storel_list_item.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\storel_list_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\pjpdeviation.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\pjpdeviation.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\my_performance_layout.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\my_performance_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\upload_option.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\upload_option.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\main.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\mainmenuactivity.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\mainmenuactivity.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\nonworking.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\nonworking.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\custom.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\custom.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\storevisited.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\storevisited.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\deepfreezer_type_layout.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\deepfreezer_type_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\brand.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\layout-large\\brand.xml"
+    }
+]

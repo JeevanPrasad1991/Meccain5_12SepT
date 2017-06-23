@@ -1,0 +1,782 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\daily_entry_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\daily_entry_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tickl.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tickl.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posmtheme_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posmtheme_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news_feed_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\news_feed_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\topup_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\topup_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\places_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\places_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_list_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\camera_list_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\friends_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\friends_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\team_meeting.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\team_meeting.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\camera_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\opening_stock_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\opening_stock_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\leave.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\leave.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listcameratick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\listcameratick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camtick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\camtick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_data.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\no_data.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\closing_stock.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\closing_stock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_home_icon.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\user_home_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posmtheme_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posmtheme_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messages_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\messages_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete_btn.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\delete_btn.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\userid_textbox.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\userid_textbox.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\auto_update_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\auto_update_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete_btna.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\delete_btna.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mid_stock_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\mid_stock_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\promotion.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\promotion.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload_data_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\upload_data_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messages_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\messages_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\txt_box_b_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\txt_box_b_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tick_d.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tick_d.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ba.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\ba.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\password_textbox.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\password_textbox.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\salesthru_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\salesthru_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\exit_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\daily_entry_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\daily_entry_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\focussku_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\focussku_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\training_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\training_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\t_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\t_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\supdate.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\supdate.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\events_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\events_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shareofdisplay.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\n_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\n_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\field_force_txt.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\field_force_txt.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_footer.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\login_footer.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photos_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\photos_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload_data_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\upload_data_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\retailerinfo_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\retailerinfo_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\audit.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\audit.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\geotag_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\geotag_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\newcamera.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\newcamera.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mid_stock.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\mid_stock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\newcamera_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\newcamera_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\joint_call.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\joint_call.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\messages_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\messages_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\salesthru_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\salesthru_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\asset_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\asset_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posm_deployed_tick_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posm_deployed_tick_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news_feed_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\news_feed_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\team_attendance.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\team_attendance.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\events_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\events_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gt_supervisor_txt.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\gt_supervisor_txt.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sku_display_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\sku_display_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\new_pepsicol_logo.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\new_pepsicol_logo.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock_home_icon.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\lock_home_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\asset.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\asset.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pointer.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\pointer.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\parinaam_logoo.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\parinaam_logoo.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkout_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\checkout_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\retailer_infotick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\retailer_infotick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reports.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\reports.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dailyent.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\dailyent.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\storeico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\storeico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shareofshelf.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\shareofshelf.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flex_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\flex_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkin_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\checkin_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\exit_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_cycle.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\call_cycle.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_delete.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sku_display_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\sku_display_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_performance.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\my_performance.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pointer1.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\pointer1.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listcamera.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\listcamera.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\secondary_window_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\secondary_window_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clickto.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\clickto.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\competition_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\competition_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posm_deployed_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posm_deployed_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\friends_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\friends_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textbox_bg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\textbox_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\geo_tag.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\geo_tag.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\merchandisingbg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\merchandisingbg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cam.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\cam.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\food.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\food.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_btn_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\login_btn_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listcameralocked.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\listcameralocked.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\newcamera_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\newcamera_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\daily_entry_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\daily_entry_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\events_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\events_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_btn_active.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\login_btn_active.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\competition.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\competition.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\signin_btn_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\signin_btn_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\address_bar.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\address_bar.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gate_meeting.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\gate_meeting.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\auto_update_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\auto_update_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkout_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\checkout_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\geotag_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\geotag_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\active_radio_box.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\active_radio_box.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\opening_stock.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\opening_stock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tickgreenv.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tickgreenv.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pepsicol_logo.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\pepsicol_logo.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkout.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\checkout.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sync.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\sync.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\friends_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\friends_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkout_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\checkout_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\save_btn_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\save_btn_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\holiday.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\holiday.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\market_visit_prepration.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\market_visit_prepration.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\save_btn_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\save_btn_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\places_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\places_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\camera_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\salesthru_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\salesthru_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\focussku.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\focussku.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\headerimg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\headerimg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posmexecutiontick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posmexecutiontick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tick_c.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tick_c.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flex_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\flex_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tick_p.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tick_p.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deactive_back_btn.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\deactive_back_btn.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posmexecution.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posmexecution.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\primary_window_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\primary_window_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\retailer_info.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\retailer_info.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pjp_deviation.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\pjp_deviation.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flex_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\flex_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deep_freezer.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\deep_freezer.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\training_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\training_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deep_freezer_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\deep_freezer_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\geopin.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\geopin.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news_feed_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\news_feed_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_btn.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\add_btn.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\upload_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\new_parinaam_logo.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\new_parinaam_logo.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\secondary_window_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\secondary_window_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\closing_stock_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\closing_stock_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skuavailability_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\skuavailability_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\txt_box_bg_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\txt_box_bg_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photos_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\photos_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gsk_logo.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\gsk_logo.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\download_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_data_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\download_data_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\joint_call_cycle.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\joint_call_cycle.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posmtheme_default.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posmtheme_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\specialwindow_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\specialwindow_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skuavailability.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\skuavailability.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seprator_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\seprator_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\auto_update.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\auto_update.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\market_with_tse.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\market_with_tse.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\specialwindow.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\specialwindow.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\leave_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\leave_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shareofdisplay_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\shareofdisplay_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deactivebtn_bg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\deactivebtn_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_attendance.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\my_attendance.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\places_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\places_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\geo_tag_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\geo_tag_hover.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\camera_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tick_u.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\tick_u.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\exit_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\store.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\store.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\training_selected.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\training_selected.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\food_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\food_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\signin_btn_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\signin_btn_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\promotion_done.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\promotion_done.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_list.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\camera_list.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_txt.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\login_txt.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload_data_selector.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\upload_data_selector.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photos_pressed.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\photos_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\active_back_btn.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\active_back_btn.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deactive_radio_box.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\deactive_radio_box.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_data_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\download_data_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blue_btn.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\blue_btn.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bc.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\bc.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\parinaam_logo_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\parinaam_logo_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shareofshelf_tick.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\shareofshelf_tick.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\txt_box_bg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\txt_box_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\auto_update_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\auto_update_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\posm_deployed_hover_ico.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\posm_deployed_hover_ico.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activebtn_bg.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\activebtn_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\primary_window.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\primary_window.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blue_btn_hover.png",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\drawable-hdpi\\blue_btn_hover.png"
+    }
+]

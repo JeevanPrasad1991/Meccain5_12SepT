@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\anim\\activity_back_out.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\anim\\activity_back_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\anim\\activity_in.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\anim\\activity_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\anim\\activity_back_in.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\anim\\activity_back_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\anim\\activity_out.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\anim\\activity_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProject\\Meccain5\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_bottom.xml",
+        "source": "G:\\AndroidStudioProject\\Meccain5\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    }
+]
