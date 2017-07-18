@@ -8,8 +8,10 @@ import org.xmlpull.v1.XmlPullParserException;
 import com.cpm.xmlGetterSetter.AssetMasterGetterSetter;
 import com.cpm.xmlGetterSetter.CategoryMasterGetterSetter;
 import com.cpm.xmlGetterSetter.ColdroomClosingGetterSetter;
+import com.cpm.xmlGetterSetter.CompetitionSkuMasterGetterSetter;
 import com.cpm.xmlGetterSetter.ComplianceByMappingGetterSetter;
 import com.cpm.xmlGetterSetter.ComplianceGetterSetter;
+import com.cpm.xmlGetterSetter.ComprtitionskumasterGetterSetter;
 import com.cpm.xmlGetterSetter.DeepFreezerGetterSetter;
 import com.cpm.xmlGetterSetter.FailureGetterSetter;
 import com.cpm.xmlGetterSetter.JCPGetterSetter;
@@ -18,6 +20,7 @@ import com.cpm.xmlGetterSetter.LoginGetterSetter;
 import com.cpm.xmlGetterSetter.MappingAssetGetterSetter;
 import com.cpm.xmlGetterSetter.MappingAvailabilityGetterSetter;
 import com.cpm.xmlGetterSetter.MappingPromotionGetterSetter;
+import com.cpm.xmlGetterSetter.MappingcompititionskuGetterSetter;
 import com.cpm.xmlGetterSetter.NonWorkingReasonGetterSetter;
 import com.cpm.xmlGetterSetter.NonWrkingMasterGetterSetter;
 import com.cpm.xmlGetterSetter.PerformanceGetterSetter;
@@ -657,8 +660,71 @@ public class XMLHandlers {
 		}
 		return skumaster;
 	}
-	
-	
+
+//COMPETITION_SKU_MASTER
+public static ComprtitionskumasterGetterSetter compskumasterXML(XmlPullParser xpp, int eventType) {
+	ComprtitionskumasterGetterSetter competitionSkuMaster = new ComprtitionskumasterGetterSetter();
+
+	try {
+		while (xpp.getEventType() != XmlPullParser.END_DOCUMENT) {
+			if (xpp.getEventType() == XmlPullParser.START_TAG) {
+
+				if (xpp.getName().equals("META_DATA")) {
+					competitionSkuMaster.setCOMPETITION_SKU_MASTER(xpp.nextText());
+				}
+				if (xpp.getName().equals("COMP_SKU_CD")) {
+					competitionSkuMaster.setCOMP_SKU_CD(xpp.nextText());
+				}
+				if (xpp.getName().equals("COMP_SKU")) {
+					competitionSkuMaster.setCOMP_SKU(xpp.nextText());
+				}
+
+			}
+			xpp.next();
+		}
+	} catch (XmlPullParserException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	} catch (IOException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	return competitionSkuMaster;
+}
+
+	//COMPETITION_SKU_MASTER
+
+	public static MappingcompititionskuGetterSetter mappingCompititionSkuXML(XmlPullParser xpp, int eventType) {
+		MappingcompititionskuGetterSetter mappingcompititionsku = new MappingcompititionskuGetterSetter();
+
+		try {
+			while (xpp.getEventType() != XmlPullParser.END_DOCUMENT) {
+				if (xpp.getEventType() == XmlPullParser.START_TAG) {
+
+					if (xpp.getName().equals("META_DATA")) {
+						mappingcompititionsku.setMAPPING_COMPETITION_SKU(xpp.nextText());
+					}
+					if (xpp.getName().equals("COMP_SKU_CD")) {
+						mappingcompititionsku.setCompskucd(xpp.nextText());
+					}
+					if (xpp.getName().equals("SKU_CD")) {
+						mappingcompititionsku.setSkucd(xpp.nextText());
+					}
+
+				}
+				xpp.next();
+			}
+		} catch (XmlPullParserException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return mappingcompititionsku;
+	}
+
+
 	public static MappingAvailabilityGetterSetter mappingavailXML(XmlPullParser xpp,
 			int eventType) {
 		MappingAvailabilityGetterSetter mappingavail = new MappingAvailabilityGetterSetter();

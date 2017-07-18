@@ -22,6 +22,26 @@ public class TableBean {
 	public static String performancetable;
 	public static String closingcoldtable;
 
+	public static String getCompetetionskumastertable() {
+		return competetionskumastertable;
+	}
+
+	public static void setCompetetionskumastertable(String competetionskumastertable) {
+		TableBean.competetionskumastertable = competetionskumastertable;
+	}
+
+	public static String getMappingcompetionskutable() {
+		return mappingcompetionskutable;
+	}
+
+	public static void setMappingcompetionskutable(String mappingcompetionskutable) {
+		TableBean.mappingcompetionskutable = mappingcompetionskutable;
+	}
+
+	public static String competetionskumastertable;
+	public static String mappingcompetionskutable;
+
+
 
 	public static String getClosingcoldtable() {
 		return closingcoldtable;

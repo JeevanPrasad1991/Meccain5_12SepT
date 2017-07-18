@@ -35,7 +35,7 @@ import com.cpm.xmlGetterSetter.StockGetterSetter;
 
 public class StoreEntry extends Activity implements OnClickListener{
 
-	Button btnDeepfreez,btnOpeningStock,btnClosingStock,btnMiddayStock,btnPromotion,btnAsset,btnfoodstr,btnfacingcomp,btncalls;
+	Button btnDeepfreez,btnOpeningStock,btnClosingStock,btnMiddayStock,btnPromotion,btnAsset,btnfoodstr,btnfacingcomp,btncalls,foodstorecomplete;
 	Button performance;
 	GSKDatabase db;
 	private SharedPreferences preferences;
@@ -68,6 +68,7 @@ public class StoreEntry extends Activity implements OnClickListener{
 		btnPromotion=(Button) findViewById(R.id.prommotion);
 		btnAsset=(Button) findViewById(R.id.assets);
 		btnfoodstr=(Button) findViewById(R.id.foodstore);
+		foodstorecomplete=(Button)findViewById(R.id.foodstorecomplete);
 		btnfacingcomp=(Button) findViewById(R.id.facingcompetitor);
 		btncalls=(Button) findViewById(R.id.calls);
 
@@ -88,6 +89,7 @@ public class StoreEntry extends Activity implements OnClickListener{
 		btnfoodstr.setOnClickListener(this);
 		btnfacingcomp.setOnClickListener(this);
 		btncalls.setOnClickListener(this);
+		foodstorecomplete.setOnClickListener(this);
 
 
 		db=new GSKDatabase(getApplicationContext());
@@ -316,6 +318,18 @@ public class StoreEntry extends Activity implements OnClickListener{
 				overridePendingTransition(R.anim.activity_in, R.anim.activity_out);
 
 				break;
+			case R.id.foodstorecomplete:
+
+				Intent in=new Intent(getApplicationContext(),FoodStoreComplete.class);
+
+				startActivity(in);
+
+				overridePendingTransition(R.anim.activity_in, R.anim.activity_out);
+
+				break;
+
+
+
 
 			case R.id.facingcompetitor:
 

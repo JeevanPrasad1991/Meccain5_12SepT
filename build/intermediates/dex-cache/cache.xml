@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="G:\AndroidStudioProject\Meccain5\app\libs\acra-4.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
-        <dex dex="G:\AndroidStudioProject\Meccain5\app\build\intermediates\pre-dexed\debug\acra-4.4.0_ce02e18f073b7817dbfa7b1844a0e78a88a89464.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="G:\AndroidStudioProject\Meccain5\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -39,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_9da8068a1c134b04756b1e1ddb5213ce64fadd8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\upendrak\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -48,12 +48,57 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_cbbc96fcba2cb88a29b4d19c4a2364df61691433.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="G:\AndroidStudioProject\Meccain5\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
         <dex dex="G:\AndroidStudioProject\Meccain5\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_9852013f263f3e876c6c30f07b120df17d2aede2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProject\Meccain5\app\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="G:\AndroidStudioProject\Meccain5\app\build\intermediates\pre-dexed\debug\acra-4.4.0_ce02e18f073b7817dbfa7b1844a0e78a88a89464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\pre-dexed\debug\acra-4.4.0_5140451195d3dd42cd2f22a77f8838cfd3947273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_591701f88b065159c19de81223ebb7cc87411538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="G:\AndroidStudioProject\KelloggLatest\Meccain5\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_168449fc0e84752a7feeab8330ff98f44af8875b.jar" />
     </item>
 
 </items>

@@ -121,13 +121,7 @@
                         android:textOff="NO"
                         android:textOn="YES" />
 
-                    <!--
-                         <EditText
-                        android:id="@+id/etactual_listed"
-                        android:layout_width="0dp"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1" />
-                    -->
+
                 </LinearLayout>
 
                 <View
