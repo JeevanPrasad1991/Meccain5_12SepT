@@ -20,6 +20,7 @@ import com.cpm.xmlGetterSetter.CallsGetterSetter;
 import com.cpm.xmlGetterSetter.CategoryMasterGetterSetter;
 import com.cpm.xmlGetterSetter.ClosingStockInsertDataGetterSetter;
 import com.cpm.xmlGetterSetter.ColdroomClosingGetterSetter;
+import com.cpm.xmlGetterSetter.ComprtitionskumasterGetterSetter;
 import com.cpm.xmlGetterSetter.DeepFreezerGetterSetter;
 import com.cpm.xmlGetterSetter.DeepFreezerTypeGetterSetter;
 import com.cpm.xmlGetterSetter.FacingCompetitorGetterSetter;
@@ -30,6 +31,7 @@ import com.cpm.xmlGetterSetter.JourneyPlanGetterSetter;
 import com.cpm.xmlGetterSetter.MappingAssetGetterSetter;
 import com.cpm.xmlGetterSetter.MappingAvailabilityGetterSetter;
 import com.cpm.xmlGetterSetter.MappingPromotionGetterSetter;
+import com.cpm.xmlGetterSetter.MappingcompititionskuGetterSetter;
 import com.cpm.xmlGetterSetter.MiddayStockInsertData;
 import com.cpm.xmlGetterSetter.NonWorkingReasonGetterSetter;
 import com.cpm.xmlGetterSetter.OpeningStockInsertDataGetterSetter;
@@ -83,6 +85,9 @@ public class GSKDatabase extends SQLiteOpenHelper {
 		db.execSQL(TableBean.getClosingcoldtable());
 		db.execSQL(TableBean.getNonworkingtable());
 		db.execSQL(TableBean.getCategorymastertable());
+
+		db.execSQL(TableBean.getMappingcompetionskutable());
+		db.execSQL(TableBean.getCompetetionskumastertable());
 		db.execSQL(CommonString.CREATE_TABLE_DEEPFREEZER_DATA);
 		db.execSQL(CommonString.CREATE_TABLE_OPENING_STOCK_DATA);
 		db.execSQL(CommonString.CREATE_TABLE_CLOSING_STOCK_DATA);
@@ -304,12 +309,9 @@ public class GSKDatabase extends SQLiteOpenHelper {
 		try {
 
 			for (int i = 0; i < data.getStore_cd().size(); i++) {
-
 				values.put("STORE_CD", Integer.parseInt(data.getStore_cd().get(i)));
 				values.put("EMP_CD",Integer.parseInt(data.getEmp_cd().get(i)));
-
 				values.put("VISIT_DATE", data.getVISIT_DATE().get(i));
-
 				values.put("KEYACCOUNT", data.getKey_account().get(i));
 				values.put("STORENAME", data.getStore_name().get(i));
 				values.put("CITY", data.getCity().get(i));
@@ -318,10 +320,7 @@ public class GSKDatabase extends SQLiteOpenHelper {
 
 				values.put("UPLOAD_STATUS", data.getUploadStatus().get(i));
 				values.put("CHECKOUT_STATUS", data.getCheckOutStatus().get(i));
-						
-						/*values.put("UPLOAD_STATUS", "N");
-						values.put("CHECKOUT_STATUS","N");
-*/
+
 				db.insert("JOURNEY_PLAN", null, values);
 
 			}
@@ -333,6 +332,54 @@ public class GSKDatabase extends SQLiteOpenHelper {
 
 	}
 
+
+	//COMPETITION_SKU_MASTER
+
+	public void insertCompititionSkuMasterData(ComprtitionskumasterGetterSetter data) {
+
+		db.delete("COMPETITION_SKU_MASTER", null, null);
+		ContentValues values = new ContentValues();
+
+		try {
+
+			for (int i = 0; i < data.getCOMP_SKU_CD().size(); i++) {
+				values.put("COMP_SKU_CD", (data.getCOMP_SKU_CD().get(i)));
+				values.put("COMP_SKU",(data.getCOMP_SKU().get(i)));
+			//	values.put("VISIT_DATE", data.getCOMPETITION_SKU_MASTER());
+
+				db.insert("COMPETITION_SKU_MASTER", null, values);
+
+			}
+
+		} catch (Exception ex) {
+			Log.d("Database Exception while Insert JCP Data ",
+					ex.toString());
+		}
+
+	}
+
+	//	MAPPING_COMPETITION_SKU   COMP_SKU_CD SKU_CD
+	public void insertMappingCompetitionData(MappingcompititionskuGetterSetter data) {
+
+		db.delete("MAPPING_COMPETITION_SKU", null, null);
+		ContentValues values = new ContentValues();
+
+		try {
+
+			for (int i = 0; i < data.getSkucd().size(); i++) {
+				values.put("COMP_SKU_CD",(data.getSkucd().get(i)));
+				values.put("SKU_CD",(data.getCompskucd().get(i)));
+
+				db.insert("MAPPING_COMPETITION_SKU", null, values);
+
+			}
+
+		} catch (Exception ex) {
+			Log.d("Database Exception while Insert JCP Data ",
+					ex.toString());
+		}
+
+	}
 
 	//mapping available data
 
@@ -1758,10 +1805,7 @@ public class GSKDatabase extends SQLiteOpenHelper {
 
 		try {
 
-			dbcursor = db
-					.rawQuery(
-							"SELECT * FROM NON_WORKING_REASON"
-							, null);
+			dbcursor = db.rawQuery("SELECT * FROM NON_WORKING_REASON", null);
 
 			if (dbcursor != null) {
 				dbcursor.moveToFirst();

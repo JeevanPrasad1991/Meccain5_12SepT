@@ -396,14 +396,12 @@ public class LoginActivity extends Activity implements OnClickListener,
 						// PUT IN PREFERENCES
 						editor.putString(CommonString.KEY_USERNAME, username);
 						editor.putString(CommonString.KEY_PASSWORD, password);
-						editor.putString(CommonString.KEY_VERSION,
-								lgs.getVERSION());
+						editor.putString(CommonString.KEY_VERSION, lgs.getVERSION());
 						editor.putString(CommonString.KEY_PATH, lgs.getPATH());
-						
 						editor.putString(CommonString.KEY_DATE, lgs.getDATE());
-						
 						editor.putString(CommonString.KEY_USER_TYPE, lgs.getRIGHTNAME());
 
+						// PUT IN PREFERENCES
 						editor.commit();
 
 						return CommonString.KEY_SUCCESS;

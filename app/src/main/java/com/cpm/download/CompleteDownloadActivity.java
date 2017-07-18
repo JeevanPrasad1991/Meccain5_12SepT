@@ -29,6 +29,8 @@ import com.cpm.message.AlertMessage;
 import com.cpm.xmlGetterSetter.AssetMasterGetterSetter;
 import com.cpm.xmlGetterSetter.CategoryMasterGetterSetter;
 import com.cpm.xmlGetterSetter.ColdroomClosingGetterSetter;
+import com.cpm.xmlGetterSetter.CompetitionSkuMasterGetterSetter;
+import com.cpm.xmlGetterSetter.ComprtitionskumasterGetterSetter;
 import com.cpm.xmlGetterSetter.DeepFreezerGetterSetter;
 import com.cpm.xmlGetterSetter.DesignationGetterSetter;
 import com.cpm.xmlGetterSetter.Deviation_Reason;
@@ -36,6 +38,7 @@ import com.cpm.xmlGetterSetter.JourneyPlanGetterSetter;
 import com.cpm.xmlGetterSetter.MappingAssetGetterSetter;
 import com.cpm.xmlGetterSetter.MappingAvailabilityGetterSetter;
 import com.cpm.xmlGetterSetter.MappingPromotionGetterSetter;
+import com.cpm.xmlGetterSetter.MappingcompititionskuGetterSetter;
 import com.cpm.xmlGetterSetter.NonWorkingReasonGetterSetter;
 import com.cpm.xmlGetterSetter.PerformanceGetterSetter;
 import com.cpm.xmlGetterSetter.SkuMasterGetterSetter;
@@ -52,10 +55,13 @@ public class CompleteDownloadActivity extends Activity {
 	private TextView percentage, message;
 	private Data data;
 	int eventType;
-	//MerchndiserGetterSetter merchandiserData;
 	JourneyPlanGetterSetter jcpgettersetter;
 	SkuMasterGetterSetter skumastergettersetter;
 
+	ComprtitionskumasterGetterSetter comprtitionskumasterGetterSetter;
+
+
+	MappingcompititionskuGetterSetter mappingcompititionskuGetterSetter;
 	MappingAvailabilityGetterSetter mappingavailgettersetter;
 	MappingPromotionGetterSetter mappingprormotgettersetter;
 	MappingAssetGetterSetter mappingassetgettersetter;
@@ -202,6 +208,84 @@ public class CompleteDownloadActivity extends Activity {
 				}
 
 				publishProgress(data);
+
+
+				//COMPETITION_SKU_MASTER
+
+				request = new SoapObject(CommonString.NAMESPACE, CommonString.METHOD_NAME_UNIVERSAL_DOWNLOAD);
+				request.addProperty("UserName", _UserId);
+				request.addProperty("Type", "COMPETITION_SKU_MASTER");
+
+				envelope = new SoapSerializationEnvelope(SoapEnvelope.VER11);
+				envelope.dotNet = true;
+				envelope.setOutputSoapObject(request);
+
+				androidHttpTransport = new HttpTransportSE(CommonString.URL);
+				androidHttpTransport.call(CommonString.SOAP_ACTION_UNIVERSAL, envelope);
+				result = (Object) envelope.getResponse();
+
+				if(result.toString()!=null){
+					xpp.setInput(new StringReader(result.toString()));
+					xpp.next();
+					eventType = xpp.getEventType();
+					comprtitionskumasterGetterSetter =XMLHandlers.compskumasterXML(xpp, eventType);
+					if(comprtitionskumasterGetterSetter.getCOMP_SKU_CD().size()>0){
+						String skutable = comprtitionskumasterGetterSetter.getCOMPETITION_SKU_MASTER();
+						if(skutable!=null){
+							resultHttp = CommonString.KEY_SUCCESS;
+							TableBean.setCompetetionskumastertable(skutable);
+						}
+					}else{
+						return "COMPETITION_SKU_MASTER";
+					}
+
+					data.value = 25;
+					data.name = "Store Data Download";
+				}
+
+				publishProgress(data);
+
+
+				// MAPPING_COMPETITION_SKU
+
+				request = new SoapObject(CommonString.NAMESPACE, CommonString.METHOD_NAME_UNIVERSAL_DOWNLOAD);
+				request.addProperty("UserName", _UserId);
+				request.addProperty("Type", "MAPPING_COMPETITION_SKU");
+
+				envelope = new SoapSerializationEnvelope(SoapEnvelope.VER11);
+				envelope.dotNet = true;
+				envelope.setOutputSoapObject(request);
+
+				androidHttpTransport = new HttpTransportSE(CommonString.URL);
+				androidHttpTransport.call(CommonString.SOAP_ACTION_UNIVERSAL, envelope);
+				Object	mappingCompetitionSku = (Object) envelope.getResponse();
+
+				if(mappingCompetitionSku.toString()!=null){
+
+					xpp.setInput(new StringReader(mappingCompetitionSku.toString()));
+					xpp.next();
+					eventType = xpp.getEventType();
+
+					mappingcompititionskuGetterSetter = XMLHandlers.mappingCompititionSkuXML(xpp, eventType);
+
+					if(mappingcompititionskuGetterSetter.getMAPPING_COMPETITION_SKU() !=null){
+						String mappingtable = mappingcompititionskuGetterSetter.getMAPPING_COMPETITION_SKU();
+						TableBean.setMappingcompetionskutable(mappingtable);
+					}
+
+					if(mappingcompititionskuGetterSetter.getSkucd().size()>0){
+						resultHttp = CommonString.KEY_SUCCESS;
+						data.value = 28;
+						data.name = "Mapping data Downloading";
+
+					}/*else{
+						return "MAPPING_COMPETITION_SKU";
+					}*/
+
+				}
+
+				publishProgress(data);
+
 
 
 				// Mapping Availability data
@@ -561,8 +645,13 @@ public class CompleteDownloadActivity extends Activity {
 				publishProgress(data);
 
 				db.open();
+
 				db.insertJCPData(jcpgettersetter);
 				db.insertSkuMasterData(skumastergettersetter);
+
+				db.insertCompititionSkuMasterData(comprtitionskumasterGetterSetter);
+				db.insertMappingCompetitionData(mappingcompititionskuGetterSetter);
+
 				db.insertMappingAvailData(mappingavailgettersetter);
 				db.insertMappingPromotionData(mappingprormotgettersetter);
 				db.insertMappingAssetData(mappingassetgettersetter);

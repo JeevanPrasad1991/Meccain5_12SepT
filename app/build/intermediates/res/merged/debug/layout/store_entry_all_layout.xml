@@ -261,9 +261,7 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="30"
-                    android:background="@drawable/food" 
-                   
-                    >
+                    android:background="@drawable/food">
                     
                 </Button>
 
@@ -274,11 +272,12 @@
                 </ImageView>
 
                 <Button
+                    android:id="@+id/foodstorecomplete"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="30"
                     android:background="@drawable/food"
-                    android:visibility="invisible" >
+                    android:visibility="visible" >
                 </Button>
 
                 <ImageView
@@ -293,8 +292,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="20dp"
                 android:layout_weight="3"
-               
-                android:orientation="vertical" >
+                 android:orientation="vertical" >
             </LinearLayout>
             
             <LinearLayout
